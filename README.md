@@ -1,4 +1,4 @@
-# php_mvc_framework_udemy
+# PHP MVC Framework (Udemy)
 
 Hello guys,
 
